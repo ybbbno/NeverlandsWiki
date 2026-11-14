@@ -5,7 +5,7 @@ icon: id-badge
 
 # Переименовки
 
-<div align="left"><figure><img src=".gitbook/assets/Снимок экрана 2026-07-01 172236.png" alt="" width="510"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Снимок экрана 2026-07-01 172236.png" alt="" width="510"><figcaption></figcaption></figure></div>
 
 ### Как это сделать?
 
@@ -24,7 +24,7 @@ icon: id-badge
 
 Но в силу недоступности некоторых переименовок, лучше использовать мод [RP Renames](https://modrinth.com/mod/rp-renames), который подсвечивает все доступные на сервере переименовки
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы увидеть эти переименовки с помощью мода, просто нажмите иконку зелёной книжки в меню наковальни
 

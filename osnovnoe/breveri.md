@@ -33,15 +33,15 @@ icon: martini-glass
 
 Обычные бочки могут содержать в себе до 6-ти напитков
 
-<div align="left"><figure><img src=".gitbook/assets/image (9).png" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (9).png" alt="" width="160"><figcaption></figcaption></figure></div>
 
 Средние по размеру бочки до 9-ти напитков. Для постройки нужны табличка и 8 ступенек (обязательно напишите надпись `Barrel` на табличке!)
 
-<div align="left"><figure><img src=".gitbook/assets/image (10).png" alt="" width="407"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (10).png" alt="" width="407"><figcaption></figcaption></figure></div>
 
 Большие по размеру бочки до 27-ми напитков. Для постройки нужны табличка, 5 заборов, 16 ступенек, 18 блоков (досок или других)
 
-<div align="left"><figure><img src=".gitbook/assets/image (11).png" alt="" width="248"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (11).png" alt="" width="248"><figcaption></figcaption></figure></div>
 
 ### Рецепты
 

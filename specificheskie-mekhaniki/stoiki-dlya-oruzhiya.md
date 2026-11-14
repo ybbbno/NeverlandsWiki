@@ -7,7 +7,7 @@ icon: mace
 
 [\*ссылка на датапак\*](https://modrinth.com/datapack/racks)
 
-<div align="left"><figure><img src=".gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### Как это сделать?
 
@@ -18,7 +18,7 @@ icon: mace
 
 Работает с любым типом дерева
 
-<div align="left"><figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Дополнительные фичи
 

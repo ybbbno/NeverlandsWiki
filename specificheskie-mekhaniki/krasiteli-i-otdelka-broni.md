@@ -7,7 +7,7 @@ icon: palette
 
 [\*ссылка на датапак\*](https://modrinth.com/datapack/colorful-trims)
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Как это сделать?
 
@@ -18,4 +18,4 @@ icon: palette
 
 Если крафт по какой-то причине не работает, то попробуйте выкинуть и поднять краситель
 
-<div align="left"><figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>

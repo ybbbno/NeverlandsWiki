@@ -20,7 +20,7 @@ icon: masks-theater
 
 Вы можете загрузить в этот канал картинку скина и дальше справа сверху нажать на троеточие и "_**Копировать ссылку на медиа**_"
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### Как использовать команду?
 

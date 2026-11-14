@@ -14,7 +14,7 @@ icon: volcano
 3. Поставить сундук, в который будут складываться ведра с лавой, и повесить на него табличку с любой стороны с надписью `[Lava]`
 4. [Скрафтить яйцо](lavovyi-mednyi-golem.md#kraft-yaica-lavovogo-mednogo-golema) и заспавнить голема
 
-<div align="left"><figure><img src=".gitbook/assets/Снимок экрана 2026-06-27 101723.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Снимок экрана 2026-06-27 101723.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Поведение голема
 
@@ -33,5 +33,5 @@ icon: volcano
 
 ### Крафт яйца
 
-<div align="left"><figure><img src=".gitbook/assets/Снимок экрана 2026-06-27 101040.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Снимок экрана 2026-06-27 101040.png" alt=""><figcaption></figcaption></figure></div>
 
